@@ -7,7 +7,7 @@ In this project, we provide a framework/pipeline for high frequency trading usin
 - Predict orderbook dynamics using machine learning and deep learning techniques
 
 ### Data
-The SGX FTSE CHINA A50 INDEX Futures (Singapore Exchange FTSE China A50 Index Futures) tick depth data are used.
+The SGX FTSE CHINA A50 INDEX Futures (新加坡交易所FTSE中国A50指数期货) tick depth data are used.
 
 ### Strategy Pipline
 <img src="./Graph/pipline.png" width="650">
